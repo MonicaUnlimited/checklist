@@ -7,6 +7,8 @@
   </head>
   <body>
     <p> Checklist and Calculator</p>
-  
+    <input type="checkbox" name="item1" value="Item 1" checked="checked">Item 1<br>
+    <input type="checkbox" name="item2" value="Item 2">Item 2<br>
+    <input type="checkbox" name="item3" value="Item 3">Item 3<br>
   </body>
 </html>
